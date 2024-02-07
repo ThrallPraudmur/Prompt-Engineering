@@ -115,10 +115,10 @@ Midjourney V6 умеет генерировать небольшой объём 
    * `Silhoutte shot` - силуэт
 * SCENE / SUBJECT / ACTION - что должно происходить в кадре: героев, их действия, пейзаж, погоду, костюмы
 * CINEMATIC CAMERA - указать любую камеру со спецэффектами при киносъёмке, такие как:
-   * Super 16, Kodak Portra 800 film - ретро-эффект
-   * Sony CineAlta, **Canon Cinema EOS** - универсальные кинокамеры
-   * Phantom High-Speed Camera - камера для скоростной съёмки
-   * DJI Phantom 4 Pro drone camera - аэросъёмка
+   * `Super 16`, `Kodak Portra 800 film` - ретро-эффект
+   * `Sony CineAlta`, `Canon Cinema EOS` - универсальные кинокамеры
+   * `Phantom High-Speed Camera` - камера для скоростной съёмки
+   * `DJI Phantom 4 Pro drone camera` - аэросъёмка
 * DIRECTOR - указать режиссёра, чтобы добавить его авторский стиль. </br> **Необязательно, чтобы режиссёр, фильм, эпоха и жанр совпадали**
 * EMOTION - **восторг, злость, удивление**, эмоциональное состояние, котороё придаёт кадру соответствующую атмосферу
 * LIGHTING - освещение, `Dramatic lighting`, о выставление света есть информация выше
