@@ -84,6 +84,7 @@ Midjourney V6 умеет генерировать небольшой объём 
 * `Full Shot` - полный кадр
 * `Wide-Angle Shot` - общий план
 * `Establishing Shot` - общий план, но видно больше окружения
+* `Extremely wide shot`
 * `Aerial or Drone Shot` - съёмка с дрона, можно указать марку дрона `Captured by DJI MAvic 3`
 
 Как менять ракурс:
@@ -115,14 +116,14 @@ Midjourney V6 умеет генерировать небольшой объём 
 * SCENE / SUBJECT / ACTION - что должно происходить в кадре: героев, их действия, пейзаж, погоду, костюмы
 * CINEMATIC CAMERA - указать любую камеру со спецэффектами при киносъёмке, такие как:
    * Super 16, Kodak Portra 800 film - ретро-эффект
-   * Sony CineAlta, Canon Cinema EOS - универсальные кинокамеры
+   * Sony CineAlta, **Canon Cinema EOS** - универсальные кинокамеры
    * Phantom High-Speed Camera - камера для скоростной съёмки
    * DJI Phantom 4 Pro drone camera - аэросъёмка
 * DIRECTOR - указать режиссёра, чтобы добавить его авторский стиль. </br> **Необязательно, чтобы режиссёр, фильм, эпоха и жанр совпадали**
 * EMOTION - **восторг, злость, удивление**, эмоциональное состояние, котороё придаёт кадру соответствующую атмосферу
 * LIGHTING - освещение, `Dramatic lighting`, о выставление света есть информация выше
 ```python
-A cinematic scene from 1914, Harry Potter ...
+/imagine a cinematic scene from 1914, Harry Potter ...
 ```
 * MORE KEY WORDS
    * `Dynamic motion` - для передачи движения
@@ -142,7 +143,13 @@ Babylon Berlin | 2017 | Henk Handloegten
 * heroic masculinity
 * mosscore / swordpunk
 * medieval-inspired
-* in the style of military scenes / in the style of terrorwave
-* intense close-ups / strong facial expression
+* in the style of military scenes / in the style of [terrorwave](https://aesthetics.fandom.com/wiki/Terrorwave) / in the style of romantic depictions of historical events
+* intense close-ups / strong facial expression / detailed close-up image of a female hand
 * wearing a burnt costume
-* 
+* emotive body language
+* a scene of a crowd of dressed and armed people, historical accuracy
+* full of movement
+* in military uniform
+```python
+/imagine robert downey jr plays a communist in the style of detailed crowd scenes, violent
+```
