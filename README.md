@@ -43,7 +43,7 @@
 После отправки команды `/imagine` с вашим промптом начинается генерация 4 начальных изображений, она обычно занимает 1-3 минуты. </br>
 Вместе с картинками появляется два ряда кнопок:
 * `U` увеличивает выбранное изображение и добавляет детализацию
-* `V` создаёт 4 новые вариации выбранного изображения
+* `V` создаёт 4 новые вариации выбранного изображения, создаётся новая сетка изображения, аналогичная общему стилю и композиции выбранного изображения
 * Повтор генерирует изображения заново с тем же промптом
 * Конвертик позволяет получить `--seed` изображения, зная который можно незначительно менять результаты генерации
 * `/split` вместе с загрузкой изображения разделяет сгенерированные Midjourney изображения на 4 отдельних картинки
@@ -139,17 +139,21 @@ Slow Horses | 2022 | James Hawes
 The Young Pope | 2016 | Paolo Sorrentino
 Babylon Berlin | 2017 | Henk Handloegten
 
-## Как Midjourney видит мир?
-* heroic masculinity
-* mosscore / swordpunk
-* medieval-inspired
-* in the style of military scenes / in the style of [terrorwave](https://aesthetics.fandom.com/wiki/Terrorwave) / in the style of romantic depictions of historical events
-* intense close-ups / strong facial expression / detailed close-up image of a female hand
-* wearing a burnt costume
-* emotive body language
-* a scene of a crowd of dressed and armed people, historical accuracy
-* full of movement
-* in military uniform
+## [Как Midjourney видит мир?](https://aesthetics.fandom.com/wiki/Terrorwave)
+* `heroic masculinity`
+* `mosscore / swordpunk`
+* `medieval-inspired`
+* `in the style of military scenes` / `in the style of terrorwave` / `in the style of romantic depictions of historical events`
+* `intense close-ups` / `strong facial expression` / `detailed close-up image of a female hand`
+* `wearing a burnt costume`
+* `emotive body language`
+* `a scene of a crowd of dressed and armed people`, `historical accuracy`
+* `full of movement`
+* `in military uniform`
+* `wallpaper`
+* `view from afar`
 ```python
 /imagine robert downey jr plays a communist in the style of detailed crowd scenes, violent
 ```
+
+## February Series. Что я понял?
