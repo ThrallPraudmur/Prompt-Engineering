@@ -164,3 +164,16 @@ Babylon Berlin | 2017 | Henk Handloegten
 ```
 
 ## February Series. Что я понял?
+Что работает | Что не работает
+--- | ---
+`/imagine свет проникает сквозь окна, medieval-inspired --style raw` | `off-center shot`, `--chaos 100`
+`/imagine динамичный кадр из фильма, medieval-inspired --style raw` | `в тяжёлом красном плаще из шерсти, побеждает бандитов`
+`/imagine cinematic scene from Babylon Berlin, captured by Canon Cinema EOS, backlit` | `imgur01, imgur02 герои на тайной встрече`
+`/imagine Jude Law играет диктатора, который вышел к демонстрации с красными флагами, low-angle shot` | `мужчина смотрит на девушку, которая предала его`
+`/imagine detailed crowd scene, captured by Phantom High-Speed Camera`| `главный герой убегает на коньках по льду озера`
+`global illumination` | `главный герой томно наблюдает, как красивая девушка с чёрными волосами учится фухтованию, off-center shot`
+ `terrorwave` | `главный герой фехтует на палках с девушкой, влюбляется` 
+ | `опрятная девушка с чёрными волосами стоит напротив него и улыбается`
+ | `слева от него у домов выбиты стёкла`
+ | `девушка обнаруживает, что её раны быстро заживают --chaos 50`
+
