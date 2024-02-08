@@ -90,7 +90,7 @@ Midjourney V6 умеет генерировать небольшой объём 
 * `Full Shot` - полный кадр
 * `Wide-Angle Shot` - общий план
 * `Establishing Shot` - общий план, но видно больше окружения
-* `Extremely wide shot`
+* ~~`Extremely wide shot`~~
 * `Aerial or Drone Shot` - съёмка с дрона, можно указать марку дрона `Captured by DJI MAvic 3`
 * `Birds-eye-view photo`
 * `View from afar`
@@ -104,7 +104,7 @@ Midjourney V6 умеет генерировать небольшой объём 
 * `Shot from behind` - сзади
 * `Oblique Angle` - под углом
 * `Over-the-Shoulder Shot` - через плечо персонажа
-* `Off-Center Shot` - персонаж не в центре кадра
+* ~~`Off-Center Shot`~~ - персонаж не в центре кадра
 * `Fish-eye` - могут получиться крутые кадры
 * `Extreme` - можно использовать эту приставку, чтобы усилить эффект названных ключевых слов
 
