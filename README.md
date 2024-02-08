@@ -150,7 +150,7 @@ Babylon Berlin | 2017 | Henk Handloegten
 
 ## [Как Midjourney видит мир?](https://aesthetics.fandom.com/wiki/Terrorwave)
 * `heroic masculinity`
-* `mosscore / swordpunk`
+* `mosscore` / `swordpunk`
 * `medieval-inspired`
 * `in the style of military scenes` / `in the style of terrorwave` / `in the style of romantic depictions of historical events`
 * `intense close-ups` / `strong facial expression` / `detailed close-up image of a female hand`
