@@ -87,6 +87,7 @@ Midjourney V6 умеет генерировать небольшой объём 
 * `Extremely wide shot`
 * `Aerial or Drone Shot` - съёмка с дрона, можно указать марку дрона `Captured by DJI MAvic 3`
 * `Birds-eye-view photo`
+* `View from afar`
 * `Wallpaper`
 
 Как менять ракурс:
