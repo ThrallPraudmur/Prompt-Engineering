@@ -86,6 +86,8 @@ Midjourney V6 умеет генерировать небольшой объём 
 * `Establishing Shot` - общий план, но видно больше окружения
 * `Extremely wide shot`
 * `Aerial or Drone Shot` - съёмка с дрона, можно указать марку дрона `Captured by DJI MAvic 3`
+* `Birds-eye-view photo`
+* `Wallpaper`
 
 Как менять ракурс:
 * `Eye-level Shot` - на уровне глаз
@@ -97,6 +99,7 @@ Midjourney V6 умеет генерировать небольшой объём 
 * `Over-the-Shoulder Shot` - через плечо персонажа
 * `Off-Center Shot` - персонаж не в центре кадра
 * `Fish-eye` - **могут получиться крутые кадры**
+
 * `Extreme` - можно использовать эту приставку, чтобы усилить эффект названных ключевых слов
 
 Ракурс или план лучше указывать после описания сюжета изображения. </br>
@@ -150,8 +153,6 @@ Babylon Berlin | 2017 | Henk Handloegten
 * `a scene of a crowd of dressed and armed people`, `historical accuracy`
 * `full of movement`
 * `in military uniform`
-* `wallpaper`
-* `view from afar`
 ```python
 /imagine robert downey jr plays a communist in the style of detailed crowd scenes, violent
 ```
