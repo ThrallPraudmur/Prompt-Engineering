@@ -163,21 +163,6 @@ Babylon Berlin | 2017 | Henk Handloegten
 /imagine robert downey jr plays a communist in the style of detailed crowd scenes, violent
 ```
 
-## February Series. Что я понял?
-Что работает | Что не работает
---- | ---
-`/imagine свет проникает сквозь окна, medieval-inspired --style raw` | `off-center shot`, `--chaos 100`
-`/imagine динамичный кадр из фильма, medieval-inspired --style raw` | `в тяжёлом красном плаще из шерсти, побеждает бандитов`
-`/imagine cinematic scene from Babylon Berlin, captured by Canon Cinema EOS, backlit` | `imgur01, imgur02 герои на тайной встрече`
-`/imagine Jude Law играет диктатора, который вышел к демонстрации с красными флагами, low-angle shot` | `мужчина смотрит на девушку, которая предала его`
-`/imagine detailed crowd scene, captured by Phantom High-Speed Camera`| `главный герой убегает на коньках по льду озера`
-`global illumination` | `главный герой томно наблюдает, как красивая девушка с чёрными волосами учится фухтованию, off-center shot`
- `terrorwave` | `главный герой фехтует на палках с девушкой, влюбляется` 
-`swordpunk` | `опрятная девушка с чёрными волосами стоит напротив него и улыбается`
---- | `слева от него у домов выбиты стёкла`
-`/imagine  девушка обнаруживает, что её раны быстро заживают, terrorwave, strong facial expression` | `девушка обнаруживает, что её раны быстро заживают --style raw --chaos 50`
-`/imagine back, pre-revolutionary Petersburg, establishing shot` | `revolutionary flags` -> `red flags`
---- | `cinematic scene from Babylon Berlin` + `девушка с отрытыми ранами, тёмная энергия лечит её`
---- | `испуганный герой убегает от девушки, вокруг которой появилась тёмная аура, тёмная магия, extremely wide shot`
-`испуганный герой` | `испуганный герой убегает от девушки, которая висит в воздухе, вокруг тёмная магия`
+## February Series. Что работает?
+`свет проникает сквозь окна`, `medieval-inspired`, `динамичный кадр из фильма`, `terrorwave`, `global illumination`, `strong facial expression`, `pre-revolutionary Petersburg`, `establishing shot`, `cinematic scene from Babylon Berlin`, `Rufus Sewell`
 
