@@ -163,6 +163,15 @@ Babylon Berlin | 2017 | Henk Handloegten
 /imagine robert downey jr plays a communist in the style of detailed crowd scenes, violent
 ```
 
+## Создание похожих персонажей в Midjourney
+1. Создайте образец персонажа, сгенерировав его изображение в Midjourney;
+2. Загрузить изображение на любой фотохостинг и скопируйте ссылку в формате .jpg;
+3. Отправьте новый запрос на генерацию картинки Midjourney и добавьте в конце промпта параметр `--cref` и ссылку на изображение вашего персонажа;
+4. С помощью параметра `--cw` от 0 до 100 можно управлять степенью похожести: при `--cw 100` копируются черты лица, причёска и одежда, при `--cw 0` - тольцо лицо.
+Опция хорошо работает со сгенерированными картинками и **не предназначена** для обработки фото реальных людей.
+
+## Копирование стилей в Midjourney
+
 ## February Series. Что работает?
 `свет проникает сквозь окна`, `medieval-inspired`, `динамичный кадр из фильма`, `terrorwave`, `global illumination`, `strong facial expression`, `pre-revolutionary Petersburg`, `establishing shot`, `cinematic scene from Babylon Berlin`, `Rufus Sewell`
 
