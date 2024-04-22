@@ -161,6 +161,7 @@ Babylon Berlin | 2017 | Henk Handloegten
 * `in military uniform`
 * `during WWI era`
 * `photo of nice looking white hair mustache german politician in suit and tie`
+* `surrounded by swirling smoke`
 ```python
 /imagine robert downey jr plays a communist in the style of detailed crowd scenes, violent
 ```
