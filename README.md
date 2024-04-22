@@ -179,5 +179,5 @@ Babylon Berlin | 2017 | Henk Handloegten
 3. С помощью параметра `--sw` можно управлять, насколько сильно образец влияет на стиль (по умолчанию `--sw 100`
 
 ## February Series. Что работает?
-`свет проникает сквозь окна`, `medieval-inspired`, `динамичный кадр из фильма`, `terrorwave`, `global illumination`, `strong facial expression`, `pre-revolutionary Petersburg`, `establishing shot`, `cinematic scene from Babylon Berlin`, `Rufus Sewell`, `Crystal Marie Reed`
+`свет проникает сквозь окна`, `medieval-inspired`, `динамичный кадр из фильма`, `terrorwave`, `global illumination`, `strong facial expression`, `pre-revolutionary Petersburg`, `establishing shot`, `cinematic scene from Babylon Berlin`, `Rufus Sewell`, `Crystal Marie Reed`, `Phantom High-Speed Camera`
 
