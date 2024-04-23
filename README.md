@@ -162,6 +162,10 @@ Babylon Berlin | 2017 | Henk Handloegten
 * `during WWI era`
 * `photo of nice looking white hair mustache german politician in suit and tie`
 * `surrounded by swirling smoke`
+* `splashy action poses`
+* `facing off against a death knight with chains and a skull head`
+* `fighting against an armored man holding chainsaws on his hands`
+* `you have a kissing / fighting scene. he is holding his young wife's face to kiss her`
 ```python
 /imagine robert downey jr plays a communist in the style of detailed crowd scenes, violent
 ```
