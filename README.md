@@ -166,6 +166,8 @@ Babylon Berlin | 2017 | Henk Handloegten
 * `facing off against a death knight with chains and a skull head`
 * `fighting against an armored man holding chainsaws on his hands`
 * `you have a kissing / fighting scene. he is holding his young wife's face to kiss her`
+* `she exudes a captivating aura as she confidently throws her legs up on the table`
+* `her eyes ablaze with determination`
 ```python
 /imagine robert downey jr plays a communist in the style of detailed crowd scenes, violent
 ```
@@ -183,5 +185,5 @@ Babylon Berlin | 2017 | Henk Handloegten
 3. С помощью параметра `--sw` можно управлять, насколько сильно образец влияет на стиль (по умолчанию `--sw 100`
 
 ## February Series. Что работает?
-`свет проникает сквозь окна`, `medieval-inspired`, `динамичный кадр из фильма`, `terrorwave`, `global illumination`, `strong facial expression`, `pre-revolutionary Petersburg`, `establishing shot`, `cinematic scene from Babylon Berlin`, `Rufus Sewell`, `Crystal Marie Reed`, `Phantom High-Speed Camera`
+`свет проникает сквозь окна`, `medieval-inspired`, `динамичный кадр из фильма`, `terrorwave`, `global illumination`, `strong facial expression`, `pre-revolutionary Petersburg`, `establishing shot`, `cinematic scene from Babylon Berlin`, `Rufus Sewell`, `Crystal Marie Reed`, `Phantom High-Speed Camera`, `full of movement`, `in a film about first Russian revolution of 1905`
 
