@@ -186,13 +186,3 @@ Babylon Berlin | 2017 | Henk Handloegten
 
 ## February Series. Что работает?
 `свет проникает сквозь окна`, `medieval-inspired`, `динамичный кадр из фильма`, `terrorwave`, `global illumination`, `strong facial expression`, `pre-revolutionary Petersburg`, `establishing shot`, `cinematic scene from Babylon Berlin`, `Rufus Sewell`, `Crystal Marie Reed`, `Phantom High-Speed Camera`, `full of movement`, `in a film about first Russian revolution of 1905`
-
-`ChatGPT 4o mini`
-
-```python
-У Таиссы Фармиги и Эвана Питерса мало совместных фотографией вне сериалов, несмотря на то, что у них потрясающая химия на экране. Можешь создать ещё фотографий из приложенной фотосессии, подчеркнув химию между ними. Сними очки у Эвана Питерса
-```
-```python
-Перенеси эту сцену прочтения сценария Таиссы Фармиги и Эвана Питерсы на съёмочную площадку сериала о Первой Русской революции 1905 года. Таисса Фармига улыбается и читает сценарий, а Эван Питерс с теплотой смотрит на неё
-```
-
